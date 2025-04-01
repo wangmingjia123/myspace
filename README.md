@@ -45,8 +45,8 @@
    npx http-server
    ```
 
-3. 在浏览器中访问网站（如果使用服务器，通常是 http://localhost:8000）
-
+3. 在浏览器中访问网站https://wangmingjia123.github.io/myspace/
+   
 ## 自定义
 
 - 修改`css/style.css`文件中的颜色变量更改网站配色
